@@ -7,6 +7,8 @@ public class Practice {
         System.out.println(" this is just github practice");
 
         System.out.println("hello ");
+        System.out.println("this line is written from gitHup ");
+        
 
     }
 }
